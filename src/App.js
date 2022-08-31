@@ -13,7 +13,7 @@ import NewExpense from './components/NewExpense/NewExpense'
     {
       id: "e2",
       title: "Pen",
-      amount: 275,
+      amount: 205,
       date: new Date(2022, 10, 18),
     },
     {
@@ -25,8 +25,14 @@ import NewExpense from './components/NewExpense/NewExpense'
     {
       id: "e4",
       title: "Laptop",
-      amount: 250.9,
+      amount: 750,
       date: new Date(2020, 10, 11),
+    },
+    {
+      id: "e5",
+      title: "Bag",
+      amount: 20,
+      date: new Date(2024, 10, 11),
     }
   ];
 function App() {
